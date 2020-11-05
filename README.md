@@ -1,3 +1,4 @@
 # hello-world
 intentare crear algo chulo
-Me llamo Tete, me gusta la comida, las cosas bonitas, dibujar (pintar, DIY, crear en general), las plantitas y los perros.
+
+me llamo Tete, me gustan los perros, dibujar (pintar, los DIY, crear en general), la comida, las cosas bonitas y las plantitas.
